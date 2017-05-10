@@ -35,7 +35,6 @@ float: left;
 
 .header{
 	margin-top: 160px;
-	margin-bottom: 40px;
 }
 
 
@@ -95,7 +94,7 @@ margin-top: 20px;
 .field{
 background: url(../images/field.png) repeat;
 width: 448px;
--webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;
+-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;
 border: none;
 font-style: italic;
 font-family: 'Lato', sans-serif;
